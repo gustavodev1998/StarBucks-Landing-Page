@@ -7,7 +7,7 @@
 <br>
 
 ## 🕒 The challenge
-This is a StarBucks landing page clone made in the B7Web course (https://alunos.b7web.com.br/curso/html5-e-css3/starbucks-introducao) that helped me improve coding skills by building a realistic projects.
+This is a StarBucks landing page clone made in the B7Web course (https://alunos.b7web.com.br/curso/html5-e-css3/starbucks-introducao) that helped me improve coding skills by building a realistic project.
 
 ## 🚀 Technologie
 
@@ -17,7 +17,7 @@ This project was developed using the following technologies:
 - CSS
 
 ## 🔖 Layout
-To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/StarBucks-Landing-Page/">Launch-Countdown-Timer</a>
+To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/StarBucks-Landing-Page/">StarBucks-Landing-Page</a>
 
 ## :memo: License
 
