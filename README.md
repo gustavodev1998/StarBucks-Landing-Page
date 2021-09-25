@@ -17,7 +17,7 @@ This project was developed using the following technologies:
 - CSS
 
 ## 🔖 Layout
-To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/Launch-Countdown-Timer/">Launch-Countdown-Timer</a>
+To check it out acess: <a target="_blank" href="https://gustavodev1998.github.io/StarBucks-Landing-Page/">Launch-Countdown-Timer</a>
 
 ## :memo: License
 
